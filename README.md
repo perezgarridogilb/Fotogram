@@ -6,13 +6,9 @@ Este fue el proyecto que realicé en el Curso de Django que tomé mientras estab
 
 ## Vista previa:
 
-**Login**
+**Login / Sign Up**
 
 ![Login](https://user-images.githubusercontent.com/56992179/139810823-df542a87-2aff-4d1d-aefd-27220f0be9ff.png)
-
-**Sign Up**
-
-![Sign Up](https://user-images.githubusercontent.com/56992179/139810919-7a4d4367-f5f3-47ca-8262-b1aa8dd4faa2.png)
 
 **Profile**
 
@@ -28,7 +24,7 @@ Este fue el proyecto que realicé en el Curso de Django que tomé mientras estab
 
 **Users model**
 
-![Users](https://user-images.githubusercontent.com/56992179/139812687-acf934cc-d70f-4934-b176-9e37b3242917.png)
+![Users model](https://user-images.githubusercontent.com/56992179/139814104-d0aa0bd9-a63f-459f-979d-45793d77258c.png)
 
 ##
 
