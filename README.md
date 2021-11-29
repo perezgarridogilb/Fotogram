@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/stars/perezgarridogilb/Fotogram) ![](https://img.shields.io/github/forks/perezgarridogilb/Fotogram) ![](https://img.shields.io/github/tag/perezgarridogilb/Fotogram)
 
-Este fue el proyecto que realicé en el Curso de Django que tomé mientras estaba por acabar la Universidad. Para abordar la lógica del negocio se usó Django 3.2.5 y Bootstrap v4.1.1 en cuanto los templates
+Este fue el proyecto que realicé en el Curso de Django que tomé mientras estaba por acabar la Universidad. Para abordar la lógica del negocio se usó Django 3.2.5 y Bootstrap v4.1.1 en cuanto a los templates
 
 ## Vista previa:
 
