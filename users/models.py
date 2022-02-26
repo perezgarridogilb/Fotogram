@@ -12,6 +12,7 @@ class Profile(models.Model):
     information.
     """
 
+    id = models.AutoField(primary_key=True)
     user = models.OneToOneField(User, on_delete=models.CASCADE)
 
     website = models.URLField(max_length=200, blank=True)
